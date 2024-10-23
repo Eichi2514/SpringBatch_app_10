@@ -30,5 +30,5 @@ logging:
 
 custom:
   site:
-    name: ??
+    name: TMS
     baseUrl: "http://localhost:8010"
